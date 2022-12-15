@@ -6,6 +6,8 @@
 
 - Tuning parameters of Kp Ki Kd is exhuastive and non trivial so we train a LSTM model so that we can emulate PID and completely and replace it 
 
+- Please find requirements.txt for dependencies. 
+
 - Following is loss trend of training LSTM
 
 ![alt text](results/loss.png)
