@@ -8,8 +8,15 @@
 
 - Following is loss trend of training LSTM
 
-![alt text](results/loss.jpg)
+![alt text](results/loss.png)
 
 - Here is the predictions of LSTM controller values compared to that of PID heater values
 
 ![alt text](pid_controller.gif)
+
+
+- To train the LSTM network use python3 train_pid.py
+- Then a model will be generated it can be used in python3 lstm_pid.py
+
+
+
